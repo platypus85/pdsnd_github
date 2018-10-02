@@ -2,10 +2,10 @@
 02/10/2018
 
 ### Project Title
-Programming for Data Science Nanodegree Program
+GitHub: Programming for Data Science Nanodegree Program
 
 ### Description
-Git repository with the project "Bikeshare" for the Programming for Data Science Nanodegree Program
+Git repository with the project "Bikeshare" for the Programming for Data Science Nanodegree Program.
 
 ### Files used
 - bikeshare.py
