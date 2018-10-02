@@ -5,7 +5,7 @@
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Git repository with the project "Bikeshare" for the Programming for Data Science Nanodegree Program.
 
 ### Files used
 Include the files used
